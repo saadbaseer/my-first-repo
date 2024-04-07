@@ -23,3 +23,4 @@ if (answer.operators === "addition") {
 } else {
   console.log("enter valid operator");
 }
+console.log("the end");
